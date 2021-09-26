@@ -4,6 +4,9 @@
 
 <h1 align="left">bymarcopolo</h1>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - Hi, I'm marcopolo 👋
+
 - Honorary software developer 💻
+
 - I am doing sports 💪
