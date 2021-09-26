@@ -18,6 +18,6 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 
 - 💬 Talk to me about { C, C++, Python, Sql }
 
-## Contact
+## Connect with me
 
-Top secret 😄
+🚨 Top secret 🙄🚩
