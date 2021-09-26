@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "200px" src="https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png" alt="cover" />
+<img width="100%" height = "250px" src="https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png" alt="cover" />
 </div>
 
 <h1 align="left">Hi 👋, I'm marcopolo</h1>
