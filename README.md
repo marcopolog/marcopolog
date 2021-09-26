@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="left">bymarcopolo</h1>
-<h3 align="left">Hi, I'm marcopolo 👋</h3>
-<h3 align="left">Honorary software developer 💻</h3>
-<h3 align="left">I am doing sports 💪</h3>
+
+- Hi, I'm marcopolo 👋
+- Honorary software developer 💻
+- I am doing sports 💪
