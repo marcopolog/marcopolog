@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm marcopolo</h1>
-<h3 align="center">Honorary software developer</h3>
+<div align="center">
+<img width="100%" height = "250px" src="marcopolog/pic/background.png" alt="cover" />
+</div>
+
+<h1 align="left">Hi 👋, I'm marcopolo</h1>
+<h3 align="left">Honorary software developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
