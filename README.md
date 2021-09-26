@@ -12,6 +12,8 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 
 - 💻 Honorary software developer 
 
+- 🔭 I'm currently working on a game project
+
 - 💪 I am doing sports 
 
 - 💬 Talk to me about { C, C++, Python, Sql }
