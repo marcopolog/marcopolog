@@ -2,9 +2,11 @@
 <img width="100%" height = "250px" src="https://technosoftacademy.io/wp-content/uploads/2018/08/web-developement-banner.png" alt="cover" />
 </div>
 
-## baylock
-<h1 align="left">bymarcopolo</h1>
+## Hi! 👋
+Hi! My name is marco. Thank You for taking the time to view my GitHub Profile 😄
 
+
+## About me
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - Hi, I'm marcopolo 👋
