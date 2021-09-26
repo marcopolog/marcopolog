@@ -5,7 +5,6 @@
 ## Hi! 👋☪
 Hi! My name is marco. Thank You for taking the time to view my GitHub Profile 😄
 
-
 ## About me
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -15,4 +14,8 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 
 - 💪 I am doing sports 
 
-- 💬 Talk to me about C, C++, Python, Sql 
+- 💬 Talk to me about { C, C++, Python, Sql }
+
+## Contact
+
+Top secret 😄
