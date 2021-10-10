@@ -35,10 +35,6 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 </a>
 <br/>
 
-## Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
 ## Thank You-🙏🏼
 
 <p>
