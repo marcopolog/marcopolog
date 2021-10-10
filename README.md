@@ -18,7 +18,7 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile ðŸ
 
 - ðŸ’¬ Talk to me about { C, C++, Python, Sql }
 
-<p>
+- <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
 </p>
 
