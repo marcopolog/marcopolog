@@ -20,13 +20,12 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 
 ## Connect with me
 
-<a href="skype:live:.cid.9dbf39befffee044?chat">
+<a href="https://join.skype.com/invite/HNfpPHffUH9k">
   <img align="left" alt="Unnamed | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />
 </a>
 <a href="https://www.facebook.com/marcopolo.3423/">
   <img align="left" alt="Unnamed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-Discord	: unnamed#1267
 
 ## Thank You-🙏🏼
 
