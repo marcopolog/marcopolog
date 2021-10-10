@@ -23,3 +23,9 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 Skype	: live:.cid.9dbf39befffee044
 
 Discord	: unnamed#1267
+
+## Thank You-🙏🏼
+
+<p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
+</p>
