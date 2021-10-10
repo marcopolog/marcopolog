@@ -4,6 +4,9 @@
 
 ## Hi! 👋☪
 Hi! My name is marco. Thank You for taking the time to view my GitHub Profile 😄
+<p>
+<img alt="-" src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
+</p>
 
 ## About me
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -17,10 +20,6 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 - 💪 I am doing sports 
 
 - 💬 Talk to me about { C, C++, Python, Sql }
-
-<p>
-<img alt="-" src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
-</p>
 
 ## Connect with me
 
