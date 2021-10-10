@@ -18,6 +18,10 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile ğŸ
 
 - ğŸ’¬ Talk to me about { C, C++, Python, Sql }
 
+<p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
+</p>
+
 ## Connect with me
 
 <br/>
@@ -34,9 +38,3 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile ğŸ
   <img align="left" alt="Discord | unnamed#1267" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
 <br/>
-
-## Thank You-ğŸ™ğŸ¼
-
-<p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
-</p>
