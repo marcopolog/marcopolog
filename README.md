@@ -27,6 +27,9 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile �
 <a href="https://www.facebook.com/marcopolo.3423/">
   <img align="left" alt="Unnamed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
+<a href="https://wa.me/+905469722430">
+  <img align="left" alt="whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg" />
+</a>
 <br/>
 
 ## Thank You-🙏🏼
