@@ -21,4 +21,5 @@ Hi! My name is marco. Thank You for taking the time to view my GitHub Profile ðŸ
 ## Connect with me
 
 Skype	: live:.cid.9dbf39befffee044
+
 Discord	: unnamed#1267
